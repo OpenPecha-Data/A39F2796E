@@ -1,0 +1,22 @@
+id: A39F2796E
+title: Toh_171-The_Questions_of_an_Old_Lady-v1
+type: translation
+pechas:
+- IBE44A07E
+- I58419AAE
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-07-18T06:21:33.896Z'
+  creationid: dirk
+  eft-text-id: UT22084-059-014
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_171-The_Questions_of_an_Old_Lady-v1
+alignment_to_base:
+  IBE44A07E/980B: 2A10
+  I58419AAE/6BEB: 2A10
